@@ -1,0 +1,66 @@
+**********************************************
+*                                            *
+* INSERTION LIST REPORT                      *
+*                                            *
+* O:\NORDICSEMI\USBDONGLE\USBDONGLE-V40.MAX  *
+* Thu Nov 23 08:47:44 2006                   *
+*                                            *
+**********************************************
+
+REF DES    VALUE            FOOTPRINT                      XCOORD       YCOORD       ROTATION BOARDSIDE    
+-----------------------------------------------------------------------------------------------------------
+541                         SHEET/A8                        -12.70 mm    -11.10 mm   0        TOP                       
+542                         SHEET/A8                        40.30 mm     -11.10 mm   0        BOTTOM                    
+A1         2.4GHz ANT       ANT/NRF2.4GHZ                   27.85 mm     9.00 mm     270      TOP                       
+C1         10n              SM/0402                         15.00 mm     5.30 mm     90       BOTTOM                    
+C2         10u              SM/0805                         16.25 mm     4.80 mm     90       BOTTOM                    
+C3         10n              SM/0402                         7.85 mm      3.75 mm     180      BOTTOM                    
+C4         10n              SM/0402                         6.55 mm      9.00 mm     270      TOP                       
+C5         10n              SM/0402                         10.85 mm     12.90 mm    0        TOP                       
+C6         10n              SM/0402                         18.80 mm     12.80 mm    0        TOP                       
+C7         1.0n             SM/0402                         18.80 mm     11.85 mm    0        TOP                       
+C8         33n              SM/0402                         17.10 mm     11.85 mm    180      TOP                       
+C9         4.7p             SM/0402                         23.65 mm     6.25 mm     0        TOP                       
+C10        2.2n             SM/0402                         23.65 mm     7.20 mm     0        TOP                       
+C11        10n              SM/0402                         7.85 mm      4.30 mm     0        TOP                       
+C12        1.5p             SM/0402                         24.35 mm     9.00 mm     180      TOP                       
+C13        10u              SM/0805                         4.70 mm      2.25 mm     270      TOP                       
+C14        1.0p             SM/0402                         25.70 mm     9.40 mm     90       TOP                       
+C15        15p              SM/0402                         22.15 mm     4.15 mm     270      TOP                       
+C16        15p              SM/0402                         16.65 mm     3.20 mm     90       TOP                       
+C17        22p              SM/0402                         14.35 mm     1.90 mm     0        TOP                       
+C18        22p              SM/0402                         12.70 mm     1.90 mm     180      TOP                       
+C22        10u              SM/0805                         7.55 mm      13.80 mm    90       TOP                       
+C23        47u              CAPMP3528X210L                  9.00 mm      2.10 mm     0        TOP                       
+C24        470n             SM/0402                         9.20 mm      12.90 mm    0        TOP                       
+C25        2.2u             SM/0603                         5.10 mm      3.10 mm     270      BOTTOM                    
+C26        1.0p             SM/0402                         27.00 mm     9.00 mm     0        TOP                       
+D1         G                0603_D                          13.00 mm     14.00 mm    180      TOP                       
+L1         2.7n             SM/0402                         22.35 mm     7.60 mm     90       TOP                       
+L2         8.2n             SM/0402                         21.40 mm     8.50 mm     270      TOP                       
+L3         3.9n             SM/0402                         22.70 mm     9.00 mm     180      TOP                       
+P1         USB-A            CON/USB-A/PLUG                  2.25 mm      8.00 mm     270      TOP                       
+P3         6PIN1ROW_1MM     SM/CON/1MM/6                    16.80 mm     14.70 mm    180      BOTTOM                    
+Q1         PDTC115TU        SM/SOT323                       15.70 mm     13.83 mm    90       TOP                       
+R1         22k              SM/0402                         20.65 mm     11.95 mm    90       TOP                       
+R2         22               SM/0402                         6.55 mm      6.60 mm     270      TOP                       
+R3         22               SM/0402                         6.55 mm      10.65 mm    90       TOP                       
+R4         1M               SM/0402                         19.50 mm     5.70 mm     180      TOP                       
+R5         100k             SM/0402                         6.25 mm      13.75 mm    270      TOP                       
+R8         0                SM/0402                         8.15 mm      11.90 mm    180      TOP                       
+R9         0                SM/0402                         4.35 mm      13.75 mm    270      TOP                       
+R10        10               SM/0402                         16.25 mm     5.75 mm     0        TOP                       
+R11        2.2k             SM/0402                         9.20 mm      14.70 mm    0        TOP                       
+R12        3.3k             SM/0402                         6.20 mm      3.35 mm     270      BOTTOM                    
+R20        470              SM/0402                         10.85 mm     14.00 mm    0        TOP                       
+R21        0                SM/0402                         6.55 mm      4.70 mm     90       TOP                       
+R23        10k              SM/0402                         9.90 mm      2.15 mm     270      BOTTOM                    
+R24        10k              SM/0402                         8.95 mm      2.15 mm     270      BOTTOM                    
+R25        1.5k             SM/0402                         5.30 mm      13.75 mm    270      TOP                       
+R26        0                SM/0402                         12.70 mm     0.95 mm     0        TOP                       
+U1         SN11220ACF       TSQFP50P900X900X160-48L         9.10 mm      9.15 mm     180      BOTTOM                    
+U2         nRF24L01         QFN20-4X4                       18.40 mm     8.80 mm     270      TOP                       
+U3         ATMega88         QFN50P500X500X100-33AL          11.60 mm     7.75 mm     90       TOP                       
+U4         93C46            TSSOP-8                         20.85 mm     2.05 mm     180      BOTTOM                    
+Y1         16MHz            XW4*2.5                         19.40 mm     3.75 mm     180      TOP                       
+Y2         6.0MHz           TH/XO/CA-301                    13.35 mm     2.95 mm     0        TOP                       

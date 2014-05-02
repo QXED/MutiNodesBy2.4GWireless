@@ -1,0 +1,77 @@
+************************************************************
+*                                                          *
+* INSERTION LIST REPORT                                    *
+*                                                          *
+* O:\NORDICSEMI\APPLICATIONBOARD\APPLICATIONBOARD-V30.MAX  *
+* Wed Nov 22 15:41:34 2006                                 *
+*                                                          *
+************************************************************
+
+REF DES    VALUE            FOOTPRINT                      XCOORD       YCOORD       ROTATION BOARDSIDE    
+-----------------------------------------------------------------------------------------------------------
+54                          SHEET/A6                        49.20 mm     -5.60 mm    0        TOP                       
+C1         10u              SM/0805                         29.70 mm     46.80 mm    180      TOP                       
+C2         10n              SM/0603                         24.80 mm     48.90 mm    90       TOP                       
+C3         10u              SM/0805                         26.30 mm     49.20 mm    90       TOP                       
+C4         10n              SM/0603                         28.70 mm     51.70 mm    0        TOP                       
+C11        4.7u             SM/0603                         15.60 mm     33.30 mm    0        TOP                       
+C14        4.7u             SM/0603                         15.60 mm     31.80 mm    0        TOP                       
+C16        100p             SM/0603                         13.20 mm     30.40 mm    180      TOP                       
+C17        100p             SM/0603                         18.20 mm     30.40 mm    0        TOP                       
+C20        2.2u             SM/0603                         1.70 mm      23.20 mm    270      TOP                       
+C21        2.2u             SM/0603                         1.70 mm      27.60 mm    270      TOP                       
+C22        10u              SM/0805                         17.70 mm     48.70 mm    0        TOP                       
+C23        10n              SM/0603                         7.50 mm      27.90 mm    270      TOP                       
+C24        100n             SM/0603                         7.50 mm      23.20 mm    90       TOP                       
+C25        2.2u             SM/0603                         16.30 mm     29.80 mm    90       TOP                       
+C26        2.2u             SM/0603                         15.00 mm     29.80 mm    90       TOP                       
+C27        10u              SM/0805                         13.00 mm     22.20 mm    0        TOP                       
+CJ1        SMA              TH/SMA                          7.90 mm      68.30 mm    90       TOP                       
+CJ2        3.5mm            TH/CON/KLBR4                    19.50 mm     6.10 mm     180      TOP                       
+CJ3        3.5mm            TH/CON/KLBR4                    7.00 mm      6.10 mm     180      TOP                       
+CP1        Solderpoint_1_.. SOLDERPOINT_1.5MM               14.00 mm     70.80 mm    0        TOP                       
+CP2        Solderpoint_1_.. SOLDERPOINT_1.5MM               39.90 mm     70.80 mm    0        TOP                       
+D1         R                0603_D                          32.05 mm     63.00 mm    0        TOP                       
+L1         470u             SM/1210                         13.00 mm     34.70 mm    270      TOP                       
+L5         470u             SM/1210                         18.20 mm     34.70 mm    270      TOP                       
+P1         6PIN2ROW         6PIN/2ROW                       52.63 mm     24.74 mm    90       TOP                       
+P3         PH2              PHOENIX/2.54/2P                 52.80 mm     69.50 mm    90       TOP                       
+P4         8PIN1ROW         8PIN/1ROW                       20.90 mm     54.89 mm    90       TOP                       
+Q1         BC847BL          SM/SOT23                        28.70 mm     63.05 mm    270      TOP                       
+R3         470              SM/0603                         34.90 mm     63.00 mm    180      TOP                       
+R4         100k             SM/0603                         25.90 mm     62.60 mm    180      TOP                       
+R5         100k             SM/0603                         25.90 mm     64.00 mm    180      TOP                       
+R6         56               SM/0603                         18.20 mm     31.80 mm    180      TOP                       
+R7         56               SM/0603                         13.20 mm     31.80 mm    0        TOP                       
+R8         0                SM/0603                         2.50 mm      13.90 mm    0        TOP                       
+R9         0                SM/0603                         5.00 mm      13.90 mm    180      TOP                       
+R12        0                SM/0603                         29.50 mm     26.80 mm    0        TOP                       
+R13        1k               SM/0603                         1.70 mm      25.40 mm    270      TOP                       
+R14        47               SM/0603                         3.00 mm      27.60 mm    270      TOP                       
+R15        220              SM/0603                         29.50 mm     25.40 mm    180      TOP                       
+R16        1k               SM/0603                         29.50 mm     29.80 mm    180      TOP                       
+R17        1k               SM/0603                         29.50 mm     28.30 mm    180      TOP                       
+R18        1k               SM/0603                         29.50 mm     31.30 mm    180      TOP                       
+R19        22k              SM/0603                         10.90 mm     23.70 mm    90       TOP                       
+R20        22k              SM/0603                         6.20 mm      25.70 mm    90       TOP                       
+R21        22k              SM/0603                         7.50 mm      25.70 mm    90       TOP                       
+R22        4.7k             SM/0603                         16.90 mm     26.90 mm    90       TOP                       
+R23        4.7k             SM/0603                         14.70 mm     26.90 mm    90       TOP                       
+R24        22k              SM/0603                         12.20 mm     24.90 mm    90       TOP                       
+R25        1k               SM/0603                         10.30 mm     22.00 mm    0        TOP                       
+SW1        SW6x6            SM/SW/6X6                       41.00 mm     24.00 mm    0        TOP                       
+SW2        SW6x6            SM/SW/6X6                       31.00 mm     14.00 mm    0        TOP                       
+SW3        SW6x6            SM/SW/6X6                       41.00 mm     14.00 mm    0        TOP                       
+SW4        SW6x6            SM/SW/6X6                       51.00 mm     14.00 mm    0        TOP                       
+SW5        SW6x6            SM/SW/6X6                       41.00 mm     4.00 mm     0        TOP                       
+SW6        SPDT             TH/SW/OS1020                    31.00 mm     57.00 mm    180      TOP                       
+SW7        SPDT             TH/SW/OS1020                    31.00 mm     42.00 mm    180      TOP                       
+SW8        SPDT             TH/SW/OS1020                    31.00 mm     37.00 mm    180      TOP                       
+U1         nRF24L01-VHR1-RM WHS-NRF24L01                    14.80 mm     38.70 mm    90       TOP                       
+U2         LP2985AIM5-2.5   SM/SOT23-5                      29.33 mm     49.25 mm    90       TOP                       
+U3         12MM             BAT/12MM                        49.20 mm     40.90 mm    180      TOP                       
+U4         CR2              BAT/0.5AA                       47.70 mm     48.90 mm    270      TOP                       
+U5         12MM             BAT/12MM                        49.20 mm     56.90 mm    180      TOP                       
+U6         LM7301           SM/SOT23-5                      9.75 mm      26.97 mm    0        TOP                       
+W1         5LUS             10PIN/2ROW/LUS                  15.88 mm     18.07 mm    0        TOP                       
+W2         2LUS             4PIN/2ROW/LUS                   4.27 mm      33.37 mm    0        TOP                       

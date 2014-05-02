@@ -1,0 +1,64 @@
+***********************************************
+*                                             *
+* INSERTION LIST REPORT                       *
+*                                             *
+* O:\NORDICSEMI\RFMODULE\RADIOMODULE-V40.MAX  *
+* Wed Nov 22 16:02:56 2006                    *
+*                                             *
+***********************************************
+
+REF DES    VALUE            FOOTPRINT                      XCOORD       YCOORD       ROTATION BOARDSIDE    
+-----------------------------------------------------------------------------------------------------------
+541                         SHEET/A8                        -15.10 mm    -13.30 mm   0        TOP                       
+C1         100n             SM/0402                         10.50 mm     1.85 mm     270      TOP                       
+C2         22p              SM/0402                         12.60 mm     1.85 mm     270      TOP                       
+C3         15p              SM/0402                         15.55 mm     1.80 mm     90       TOP                       
+C4         15p              SM/0402                         21.10 mm     2.10 mm     270      TOP                       
+C5         22p              SM/0402                         15.20 mm     3.65 mm     0        TOP                       
+C6         4.7p             SM/0402                         22.65 mm     4.55 mm     0        TOP                       
+C7         2.2n             SM/0402                         22.65 mm     5.50 mm     0        TOP                       
+C9         1.5p             SM/0402                         23.20 mm     7.30 mm     180      TOP                       
+C10        10n              SM/0402                         1.20 mm      10.20 mm    90       TOP                       
+C11        1u               SM/0402                         3.20 mm      10.20 mm    90       TOP                       
+C12        1u               SM/0402                         4.20 mm      10.20 mm    90       TOP                       
+C13        100n             SM/0402                         5.20 mm      10.20 mm    90       TOP                       
+C14        10n              SM/0402                         10.40 mm     10.20 mm    90       TOP                       
+C15        33n              SM/0402                         15.65 mm     10.20 mm    180      TOP                       
+C16        10n              SM/0402                         17.55 mm     10.10 mm    0        TOP                       
+C17        1.0n             SM/0402                         17.55 mm     11.00 mm    0        TOP                       
+C18        1.0p             SM/0402                         24.50 mm     7.70 mm     90       TOP                       
+CP1        Solderpoint_ED.. EDGEPLATING/1MM                 1.50 mm      0.00 mm     0        TOP                       
+CP2        Solderpoint_ED.. EDGEPLATING/1MM                 3.50 mm      0.00 mm     0        TOP                       
+CP3        Solderpoint_ED.. EDGEPLATING/1MM                 5.50 mm      0.00 mm     0        TOP                       
+CP4        Solderpoint_ED.. EDGEPLATING/1MM                 7.50 mm      0.00 mm     0        TOP                       
+CP5        Solderpoint_ED.. EDGEPLATING/1MM                 9.50 mm      0.00 mm     0        TOP                       
+CP6        Solderpoint_ED.. EDGEPLATING/1MM                 11.50 mm     0.00 mm     0        TOP                       
+CP7        Solderpoint_ED.. EDGEPLATING/1MM                 13.50 mm     0.00 mm     0        TOP                       
+CP8        Solderpoint_ED.. EDGEPLATING/1MM                 15.50 mm     0.00 mm     0        TOP                       
+CP9        Solderpoint_ED.. EDGEPLATING/1MM                 26.00 mm     5.00 mm     90       TOP                       
+CP10       Solderpoint_ED.. EDGEPLATING/1MM                 26.00 mm     7.00 mm     90       TOP                       
+CP11       Solderpoint_ED.. EDGEPLATING/1MM                 15.55 mm     12.00 mm    180      TOP                       
+CP12       Solderpoint_ED.. EDGEPLATING/1MM                 13.55 mm     12.00 mm    180      TOP                       
+CP13       Solderpoint_ED.. EDGEPLATING/1MM                 11.55 mm     12.00 mm    180      TOP                       
+CP14       Solderpoint_ED.. EDGEPLATING/1MM                 9.55 mm      12.00 mm    180      TOP                       
+CP15       Solderpoint_ED.. EDGEPLATING/1MM                 7.55 mm      12.00 mm    180      TOP                       
+CP16       Solderpoint_ED.. EDGEPLATING/1MM                 5.55 mm      12.00 mm    180      TOP                       
+CP17       Solderpoint_ED.. EDGEPLATING/1MM                 3.55 mm      12.00 mm    180      TOP                       
+CP18       Solderpoint_ED.. EDGEPLATING/1MM                 1.50 mm      12.00 mm    180      TOP                       
+L1         2.7n             SM/0402                         21.35 mm     5.90 mm     90       TOP                       
+L2         8.2n             SM/0402                         20.25 mm     6.90 mm     270      TOP                       
+L3         3.9n             SM/0402                         21.55 mm     7.30 mm     180      TOP                       
+R1         10               SM/0402                         7.95 mm      1.85 mm     270      TOP                       
+R2         100k             SM/0402                         8.95 mm      1.85 mm     270      TOP                       
+R3         10               SM/0402                         11.70 mm     1.85 mm     90       TOP                       
+R4         1M               SM/0402                         18.15 mm     4.20 mm     180      TOP                       
+R5         390k             SM/0402                         2.20 mm      10.20 mm    90       TOP                       
+R6         220k             SM/0402                         12.65 mm     10.20 mm    90       TOP                       
+R7         100k             SM/0402                         14.05 mm     10.60 mm    0        TOP                       
+R8         22k              SM/0402                         19.65 mm     10.20 mm    90       TOP                       
+R9         100k             SM/0402                         14.05 mm     9.65 mm     0        TOP                       
+U1         XE3005           TSSOP-20                        3.85 mm      5.70 mm     270      TOP                       
+U3         ATMega88         QFN50P500X500X100-33AL          10.30 mm     6.45 mm     90       TOP                       
+U4         nRF24L01         QFN20-4X4                       17.15 mm     7.15 mm     270      TOP                       
+Y1         4.096MHz         TH/XO/CA-301                    13.80 mm     2.65 mm     270      TOP                       
+Y2         16MHz            XW4*2.5                         18.30 mm     2.35 mm     180      TOP                       
